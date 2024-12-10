@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "265207935848",
+    "project_id": "loginspotify-2814e",
+    "storage_bucket": "loginspotify-2814e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265207935848:android:2e6d2fbb0c023eee2adcdd",
+        "android_client_info": {
+          "package_name": "com.smb.jc_mylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265207935848-5qi2jt1ibvqmdcnhqf9vd0puvntto8iu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smb.jc_mylogin",
+            "certificate_hash": "8b619686ba4c4606dad5d87ee6b8e20994566948"
+          }
+        },
+        {
+          "client_id": "265207935848-hvka4nneud985to66857o8es81f489in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB13g5fY-5UYPMciyZR-EB29r1-iblFQWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265207935848-hvka4nneud985to66857o8es81f489in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
